@@ -1,4 +1,4 @@
-# 
+# Public Desktop is a social investing platform where you can follow other investors, share ideas, and build your portfolio.
 
 
 
